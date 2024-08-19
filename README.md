@@ -1,5 +1,3 @@
-Here's a `README.md` file for your `weather-app` project:
-
 ```markdown
 # Weather App
 
