@@ -2,7 +2,7 @@ package com.controller;
 
 
 
-import com.WeatherResponse;
+import com.model.WeatherResponse;
 import org.springframework.beans.factory.annotation.Value;
 import org.springframework.stereotype.Controller;
 import org.springframework.ui.Model;
