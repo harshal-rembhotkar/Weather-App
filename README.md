@@ -1,4 +1,4 @@
-```markdown
+
 # Weather App
 
 The Weather App is a simple web application built with Spring Boot that allows users to retrieve and display current weather information for a specified city. The app consumes data from the OpenWeatherMap API and presents it in a user-friendly format.
